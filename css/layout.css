@@ -1,0 +1,12 @@
+/** Desktop */
+  
+  @media (min-width: 768px) {
+    section {
+      overflow: hidden
+    }
+  
+    div {
+      width: 300px;
+      float: left;
+    }
+  }
